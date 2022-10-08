@@ -1,0 +1,2 @@
+# mutt
+Tiling window manager
